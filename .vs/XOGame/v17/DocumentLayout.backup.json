@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66C64F22-32A0-4DCF-AE85-B610A7A60190}|XOGame_ModuleTest\\XOGame_ModuleTest.csproj|C:\\Users\\xaxa1\\source\\repos\\XOGame\\xogame_moduletest\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C64F22-32A0-4DCF-AE85-B610A7A60190}|XOGame_ModuleTest\\XOGame_ModuleTest.csproj|solutionrelative:xogame_moduletest\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|c:\\users\\xaxa1\\source\\repos\\xogame\\xogame_view\\recordswidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|solutionrelative:xogame_view\\recordswidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE70F7-BFAF-4B11-8A06-EB5AB4E1F6AF}|XOGame_Model\\XOGame_Model.csproj|C:\\Users\\xaxa1\\source\\repos\\XOGame\\xogame_model\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADE70F7-BFAF-4B11-8A06-EB5AB4E1F6AF}|XOGame_Model\\XOGame_Model.csproj|solutionrelative:xogame_model\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|C:\\Users\\xaxa1\\source\\repos\\XOGame\\xogame_view\\recordswidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|solutionrelative:xogame_view\\recordswidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|C:\\Users\\xaxa1\\source\\repos\\XOGame\\xogame_view\\settingswidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|solutionrelative:xogame_view\\settingswidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE70F7-BFAF-4B11-8A06-EB5AB4E1F6AF}|XOGame_Model\\XOGame_Model.csproj|C:\\Users\\xaxa1\\source\\repos\\XOGame\\xogame_model\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADE70F7-BFAF-4B11-8A06-EB5AB4E1F6AF}|XOGame_Model\\XOGame_Model.csproj|solutionrelative:xogame_model\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|C:\\Users\\xaxa1\\source\\repos\\XOGame\\xogame_view\\settingswidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|solutionrelative:xogame_view\\settingswidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE70F7-BFAF-4B11-8A06-EB5AB4E1F6AF}|XOGame_Model\\XOGame_Model.csproj|C:\\Users\\xaxa1\\source\\repos\\XOGame\\xogame_model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADE70F7-BFAF-4B11-8A06-EB5AB4E1F6AF}|XOGame_Model\\XOGame_Model.csproj|solutionrelative:xogame_model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|C:\\Users\\xaxa1\\source\\repos\\XOGame\\xogame_view\\playwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|solutionrelative:xogame_view\\playwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|C:\\Users\\xaxa1\\source\\repos\\XOGame\\xogame_view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|solutionrelative:xogame_view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|C:\\Users\\xaxa1\\source\\repos\\XOGame\\xogame_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54C6848-A374-4922-AA3D-E119A3A6D5AC}|XOGame_View\\XOGame_View.csproj|solutionrelative:xogame_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_ModuleTest\\Tests.cs",
+              "RelativeDocumentMoniker": "XOGame_ModuleTest\\Tests.cs",
+              "ToolTip": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_ModuleTest\\Tests.cs",
+              "RelativeToolTip": "XOGame_ModuleTest\\Tests.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:25:55.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Records.cs",
+              "DocumentMoniker": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_Model\\Records.cs",
+              "RelativeDocumentMoniker": "XOGame_Model\\Records.cs",
+              "ToolTip": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_Model\\Records.cs",
+              "RelativeToolTip": "XOGame_Model\\Records.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:13:08.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecordsWidget.cs",
+              "DocumentMoniker": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\RecordsWidget.cs",
+              "RelativeDocumentMoniker": "XOGame_View\\RecordsWidget.cs",
+              "ToolTip": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\RecordsWidget.cs",
+              "RelativeToolTip": "XOGame_View\\RecordsWidget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:31:30.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecordsWidget.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\RecordsWidget.cs",
+              "RelativeDocumentMoniker": "XOGame_View\\RecordsWidget.cs",
+              "ToolTip": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\RecordsWidget.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "XOGame_View\\RecordsWidget.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:50:46.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_Model\\Settings.cs",
+              "RelativeDocumentMoniker": "XOGame_Model\\Settings.cs",
+              "ToolTip": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_Model\\Settings.cs",
+              "RelativeToolTip": "XOGame_Model\\Settings.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwDkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:11:48.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsWidget.cs",
+              "DocumentMoniker": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\SettingsWidget.cs",
+              "RelativeDocumentMoniker": "XOGame_View\\SettingsWidget.cs",
+              "ToolTip": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\SettingsWidget.cs",
+              "RelativeToolTip": "XOGame_View\\SettingsWidget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:11:11.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingsWidget.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\SettingsWidget.cs",
+              "RelativeDocumentMoniker": "XOGame_View\\SettingsWidget.cs",
+              "ToolTip": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\SettingsWidget.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "XOGame_View\\SettingsWidget.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:01:07.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_Model\\Game.cs",
+              "RelativeDocumentMoniker": "XOGame_Model\\Game.cs",
+              "ToolTip": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_Model\\Game.cs",
+              "RelativeToolTip": "XOGame_Model\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:01:13.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayWidget.cs",
+              "DocumentMoniker": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\PlayWidget.cs",
+              "RelativeDocumentMoniker": "XOGame_View\\PlayWidget.cs",
+              "ToolTip": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\PlayWidget.cs",
+              "RelativeToolTip": "XOGame_View\\PlayWidget.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:10:01.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\Menu.cs",
+              "RelativeDocumentMoniker": "XOGame_View\\Menu.cs",
+              "ToolTip": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\Menu.cs",
+              "RelativeToolTip": "XOGame_View\\Menu.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:25:16.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\Program.cs",
+              "RelativeDocumentMoniker": "XOGame_View\\Program.cs",
+              "ToolTip": "C:\\Users\\xaxa1\\source\\repos\\XOGame\\XOGame_View\\Program.cs",
+              "RelativeToolTip": "XOGame_View\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:24:01.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

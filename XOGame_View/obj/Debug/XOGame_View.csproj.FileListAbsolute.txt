@@ -1,0 +1,14 @@
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\bin\Debug\XOGame_View.exe.config
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\bin\Debug\XOGame_View.exe
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\bin\Debug\XOGame_View.pdb
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\obj\Debug\XOGame_View.csproj.AssemblyReference.cache
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\obj\Debug\XOGame_View.Properties.Resources.resources
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\obj\Debug\XOGame_View.csproj.GenerateResource.cache
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\obj\Debug\XOGame_View.csproj.CoreCompileInputs.cache
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\obj\Debug\XOGame_View.exe
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\obj\Debug\XOGame_View.pdb
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\obj\Debug\XOGame_View.SettingsWidget.resources
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\bin\Debug\XOGame_Model.dll
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\bin\Debug\XOGame_Model.pdb
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\obj\Debug\XOGame_V.7CF29BDF.Up2Date
+C:\Users\xaxa1\source\repos\XOGame\XOGame_View\obj\Debug\XOGame_View.RecordsWidget.resources

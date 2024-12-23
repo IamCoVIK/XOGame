@@ -1,0 +1,6 @@
+C:\Users\xaxa1\source\repos\XOGame\XOGame_Model\bin\Debug\XOGame_Model.dll
+C:\Users\xaxa1\source\repos\XOGame\XOGame_Model\bin\Debug\XOGame_Model.pdb
+C:\Users\xaxa1\source\repos\XOGame\XOGame_Model\obj\Debug\XOGame_Model.csproj.AssemblyReference.cache
+C:\Users\xaxa1\source\repos\XOGame\XOGame_Model\obj\Debug\XOGame_Model.csproj.CoreCompileInputs.cache
+C:\Users\xaxa1\source\repos\XOGame\XOGame_Model\obj\Debug\XOGame_Model.dll
+C:\Users\xaxa1\source\repos\XOGame\XOGame_Model\obj\Debug\XOGame_Model.pdb
